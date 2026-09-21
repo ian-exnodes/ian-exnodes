@@ -1,77 +1,49 @@
-Hi, I'm Ian 👋
-
+IAN
 Frontend Engineer
 
-Building modern web & mobile experiences.
-Exploring backend engineering, developer tooling, and AI-assisted development.
+React • React Native • TypeScript
+Building web & mobile products
 
-👨‍💻 About Me
+              ↓
 
-const ian = {
-  role: "Frontend Engineer",
+ABOUT
+Frontend engineer working primarily
+with React and React Native.
 
-  building: ["Web", "Mobile"],
+Currently exploring
+☕ Java & Backend Engineering
+🤖 AI-assisted Software Development
+⚙️ Developer Tooling & Automation
 
-  stack: {
-    frontend: ["React", "React Native", "Next.js", "TypeScript"],
-    backend: ["Java", "Spring Boot"],
-  },
+              ↓
 
-  exploring: [
-    "AI-assisted Development",
-    "Developer Tooling",
-    "Agentic Workflows",
-    "Automation",
-  ],
-
-  philosophy: "Build better systems, not just more code.",
-};
-
-Most of my professional work lives in private repositories, so this profile only shows a small part of what I build.
-
-🧰 Tech Stack
+TECH STACK
 
 Frontend
+React · React Native · Next.js · TypeScript
 
+Backend
+Java · Spring Boot
 
+Workflow
+Git · Claude Code · Codex · AI Agents
 
-Backend & Exploring
+              ↓
 
+WHAT I'M WORKING ON
 
+⚛️ Production frontend applications
+📱 Cross-platform mobile applications
+🤖 AI-assisted engineering workflows
+☕ Expanding into backend engineering
 
-Tools
+Most of my professional work lives
+in private repositories.
 
+              ↓
 
+GITHUB ACTIVITY / STATS
 
-🤖 How I Build
+              ↓
 
-I'm interested not only in writing code, but also in improving how software gets built.
-
-I experiment with Claude Code, Codex, coding agents, and automation as part of my development workflow.
-
-Idea
-  ↓
-Explore & Plan
-  ↓
-Implement
-  ↓
-Review & Verify
-  ↓
-Ship
-  ↓
-Learn & Improve
-
-I use AI-assisted workflows for feature implementation, codebase exploration, debugging, review, and repetitive engineering tasks.
-
-The goal is simple: automate the boring parts without outsourcing engineering judgment.
-
-🧭 Currently
-
-Building   → Web & mobile applications
-Learning   → Java · Spring Boot · Backend Engineering
-Exploring  → AI Agents · Developer Tooling · Automation
-Improving  → Engineering workflows
-
-Build · Learn · Improve · Repeat
-
-Thanks for stopping by 👋
+CONTACT
