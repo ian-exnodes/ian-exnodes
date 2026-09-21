@@ -1,21 +1,15 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ian 👋</h1>
+<h3 align="center">Frontend Engineer · Web & Mobile Builder</h3>
 
-# Hi, I'm Ian 👋
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=780&lines=React+%E2%80%A2+React+Native+%E2%80%A2+TypeScript;Exploring+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Backend;Building+with+AI+agents+and+automation" alt="Typing introduction" /></a></p>
 
-### Frontend Engineer · React · React Native · TypeScript
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ian-exnodes&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Product Engineering" /> <img src="https://img.shields.io/badge/Mindset-Build%20%26%20Learn-0891b2?style=for-the-badge" alt="Build and Learn" /></p>
 
-I build modern web & mobile experiences,
-with a growing focus on **backend engineering** and **AI-assisted development**.
+<p align="center">I build modern web and mobile experiences, with a growing focus on<br /><strong>backend engineering</strong>, <strong>developer tooling</strong>, and <strong>AI-assisted development</strong>.</p>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
-
-</div>
-
----
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```typescript
 const ian = {
@@ -40,78 +34,89 @@ const ian = {
     "Agentic Workflows",
     "Automation",
   ],
+
+  philosophy: "Build thoughtfully. Learn continuously. Automate the repetitive.",
 };
 ```
 
-Most of my professional work lives in **private repositories**, but I'm always experimenting with new technologies, tools, and better ways to build software.
+Most of my professional work lives in **private repositories**, so the activity visible here is only one part of my engineering journey. Outside day-to-day product work, I enjoy experimenting with new technologies, sharper tooling, and better ways to build software.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
+<h3 align="center">Frontend & Mobile</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass&theme=dark" alt="Frontend technologies" /></p>
 
-#### Frontend
+<h3 align="center">Backend & Currently Exploring</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" alt="Backend technologies" /></p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass&theme=dark" />
+<h3 align="center">Tools & Workflow</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=dark" alt="Development tools" /></p>
 
-#### Backend & Exploring
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" />
+## 🤖 How I Build
 
-#### Tools
+Beyond writing code, I'm interested in improving **how software gets built**. I experiment with **Claude Code**, **Codex**, and coding agents across the development lifecycle:
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=dark" />
+| ⚡ Build | 🔍 Understand | 🧪 Verify | 🔄 Automate |
+|:---:|:---:|:---:|:---:|
+| Feature implementation | Code exploration & debugging | Review & testing | Multi-agent workflows |
 
-</div>
+The goal isn't to replace engineering judgment. It's to spend less time on repetitive work and more time understanding problems, making good decisions, and building things that matter.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-### 🤖 How I Build
+## 📊 GitHub Activity
 
-Beyond writing code, I'm interested in improving **how software gets built**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Ian's GitHub stats" />
+</picture>
 
-I experiment with AI-assisted engineering workflows using tools such as **Claude Code**, **Codex**, and coding agents to help with:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=default&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Ian's most used languages" />
+</picture>
 
-* ⚡ Feature implementation
-* 🔍 Code exploration & debugging
-* 🧪 Review & verification
-* 🔄 Multi-agent development workflows
-* 🛠️ Developer automation
+<br />
 
-The goal isn't to replace engineering judgment. It's to spend less time on repetitive work and more time solving interesting problems.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ian-exnodes&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ian-exnodes&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ian-exnodes&theme=tokyonight&hide_border=true" alt="Ian's GitHub streak" />
+</picture>
 
----
+<br />
 
-### 📊 GitHub Activity
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/output/github-contribution-grid-snake.svg" alt="Snake eating Ian's GitHub contributions" />
+</picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=github_dark" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=github_dark" />
+> [!NOTE]
+> Most professional repositories are private, so public GitHub statistics represent only part of my development activity.
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-> Most professional repositories are private, so public GitHub statistics only represent part of my development activity.
-
----
-
-### 🧭 Currently
+## 🧭 Right Now
 
 ```text
 Building      → Web & Mobile Applications
-Learning      → Java / Spring Boot / Backend
+Learning      → Java / Spring Boot / Backend Engineering
 Exploring     → AI Agents & Developer Tooling
 Improving     → Software Engineering Workflows
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
-<div align="center">
-
-### Build. Learn. Automate. Repeat. ⚡
-
-<sub>Thanks for stopping by.</sub>
-
-</div>
+<h3 align="center">Build. Learn. Automate. Repeat. ⚡</h3>
+<p align="center"><sub>Thanks for stopping by — feel free to explore my repositories.</sub></p>
