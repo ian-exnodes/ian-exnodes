@@ -71,15 +71,15 @@ The goal isn't to replace engineering judgment. It's to spend less time on repet
 ## 📊 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Ian's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Ian's GitHub stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=default&langs_count=8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Ian's most used languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=default&langs_count=8" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Ian's most used languages" />
 </picture>
 
 <br />
@@ -95,9 +95,9 @@ The goal isn't to replace engineering judgment. It's to spend less time on repet
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/output/github-contribution-grid-snake.svg" alt="Snake eating Ian's GitHub contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/gh-pages/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/gh-pages/github-contribution-grid-snake.svg" alt="Snake eating Ian's GitHub contributions" />
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
