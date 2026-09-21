@@ -1,117 +1,94 @@
-<div align="center">
+{align="center"}
 
-# Hi, I'm Ian 👋
+Hi, I'm Ian 👋
 
-### Frontend Engineer · React · React Native · TypeScript
+Frontend Engineer
 
-I build modern web & mobile experiences,
-with a growing focus on **backend engineering** and **AI-assisted development**.
+Building modern web & mobile experiences.
+Exploring backend engineering, developer tooling, and
+AI-assisted development.
+:::
 
-<br/>
+👨‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-```typescript
 const ian = {
   role: "Frontend Engineer",
 
-  core: [
-    "React",
-    "React Native",
-    "TypeScript",
-    "Next.js",
-  ],
+  building: ["Web", "Mobile"],
 
-  currentlyExploring: [
-    "Java",
-    "Spring Boot",
-    "Backend Engineering",
-  ],
+  stack: {
+    frontend: ["React", "React Native", "Next.js", "TypeScript"],
+    backend: ["Java", "Spring Boot"],
+  },
 
-  interestedIn: [
+  exploring: [
     "AI-assisted Development",
     "Developer Tooling",
     "Agentic Workflows",
     "Automation",
   ],
+
+  philosophy: "Build better systems, not just more code.",
 };
-```
 
-Most of my professional work lives in **private repositories**, but I'm always experimenting with new technologies, tools, and better ways to build software.
+Most of my professional work lives in private repositories, so this
+profile only shows a small part of what I build.
 
----
+🧰 Tech Stack
 
-### 🧰 Tech Stack
+::: {align="center"}
+Frontend
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" alt="Frontend technologies" />{=html}
 
-#### Frontend
+<br/>{=html}<br/>{=html}
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass&theme=dark" />
+Backend & Exploring
 
-#### Backend & Exploring
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" alt="Backend technologies" />{=html}
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" />
+<br/>{=html}<br/>{=html}
 
-#### Tools
+Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Development tools" />{=html}
+:::
 
-</div>
+🤖 How I Build
 
----
+I'm interested not only in writing code, but also in improving how
+software gets built.
 
-### 🤖 How I Build
+I experiment with Claude Code, Codex, coding agents, and automation
+as part of my development workflow.
 
-Beyond writing code, I'm interested in improving **how software gets built**.
+Idea
+  ↓
+Explore & Plan
+  ↓
+Implement
+  ↓
+Review & Verify
+  ↓
+Ship
+  ↓
+Learn & Improve
 
-I experiment with AI-assisted engineering workflows using tools such as **Claude Code**, **Codex**, and coding agents to help with:
+I use AI-assisted workflows for feature implementation, codebase
+exploration, debugging, review, and repetitive engineering tasks.
 
-* ⚡ Feature implementation
-* 🔍 Code exploration & debugging
-* 🧪 Review & verification
-* 🔄 Multi-agent development workflows
-* 🛠️ Developer automation
+The goal is simple: automate the boring parts without outsourcing
+engineering judgment.
 
-The goal isn't to replace engineering judgment. It's to spend less time on repetitive work and more time solving interesting problems.
+🧭 Currently
 
----
+Building   → Web & mobile applications
+Learning   → Java · Spring Boot · Backend Engineering
+Exploring  → AI Agents · Developer Tooling · Automation
+Improving  → Engineering workflows
 
-### 📊 GitHub Activity
+::: {align="center"}
 
-<div align="center">
+Build · Learn · Improve · Repeat
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
-> Most professional repositories are private, so public GitHub statistics only represent part of my development activity.
-
----
-
-### 🧭 Currently
-
-```text
-Building      → Web & Mobile Applications
-Learning      → Java / Spring Boot / Backend
-Exploring     → AI Agents & Developer Tooling
-Improving     → Software Engineering Workflows
-```
-
----
-
-<div align="center">
-
-### Build. Learn. Automate. Repeat. ⚡
-
-<sub>Thanks for stopping by.</sub>
-
-</div>
+<sub>{=html}Thanks for stopping by 👋</sub>{=html}
