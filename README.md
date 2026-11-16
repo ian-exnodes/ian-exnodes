@@ -39,7 +39,17 @@ const ian = {
 };
 ```
 
-Most of my professional work lives in **private repositories**, so the activity visible here is only one part of my engineering journey. Outside day-to-day product work, I enjoy experimenting with new technologies, sharper tooling, and better ways to build software.
+Outside day-to-day product work, I enjoy experimenting with new technologies, sharper tooling, and better ways to build software.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|:---|:---|:---|
+| [**statusbar**](https://github.com/ian-exnodes/statusbar) | Claude Code plugin that draws a live two-row status line under the prompt: model, git, context fill, 5h/7d quota, tokens, cost and session time. | TypeScript |
+| [**swimtrace**](https://github.com/ian-exnodes/swimtrace) | Live flow of Claude Code subagents (who started whom, what each is doing, how it ended), shown above the prompt and in a terminal viewer. Strictly observational. | TypeScript · Node |
+| [**trua-nay-an-gi**](https://github.com/ian-exnodes/trua-nay-an-gi) | "What's for lunch?" as a case-opening parody: 36 Vietnamese meals with budget and vegetarian filters. [Live demo](https://ian-exnodes.github.io/trua-nay-an-gi/) | TypeScript · Vite |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
@@ -76,22 +86,6 @@ The goal isn't to replace engineering judgment. It's to spend less time on repet
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=ian-exnodes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Ian's GitHub stats" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=default&langs_count=8" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ian-exnodes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Ian's most used languages" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ian-exnodes&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ian-exnodes&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=ian-exnodes&theme=tokyonight&hide_border=true" alt="Ian's GitHub streak" />
-</picture>
-
-<br />
-
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <picture>
@@ -100,21 +94,8 @@ The goal isn't to replace engineering judgment. It's to spend less time on repet
   <img width="100%" src="https://raw.githubusercontent.com/ian-exnodes/ian-exnodes/gh-pages/github-contribution-grid-snake.svg" alt="Snake eating Ian's GitHub contributions" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
-
 > [!NOTE]
 > Most professional repositories are private, so public GitHub statistics represent only part of my development activity.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
-
-## 🧭 Right Now
-
-```text
-Building      → Web & Mobile Applications
-Learning      → Java / Spring Boot / Backend Engineering
-Exploring     → AI Agents & Developer Tooling
-Improving     → Software Engineering Workflows
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" alt="RGB section divider" />
 
